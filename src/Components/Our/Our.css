@@ -1,0 +1,31 @@
+.our .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 156px;
+}
+
+.our_box {
+    width: 540px;
+}
+
+.our_heading {
+    font-family: "Fraunces";
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 48px;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 24px;
+    color: #333D4B;
+}
+
+.our_text {
+    margin: 0;
+    padding: 0;
+    font-family: 'Fraunces';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #333D4B;
+}
